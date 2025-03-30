@@ -8,7 +8,7 @@ This project is a React-based product catalog featuring a shopping cart and favo
 
 ### Design
 
-https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?node-id=0-1&p=f&t=COASsYXxo2s3wsjV-0
+- [Original](https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original)
 
 
 ## Technologies Used
