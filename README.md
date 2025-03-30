@@ -1,12 +1,12 @@
 # Gadgets catalog
 
-This project is a React-based product catalog featuring a shopping cart and favorites page. Users can browse products, view detailed information, add items to their cart, and manage their favorite products. The catalog includes various product categories and provides a user-friendly interface for interacting with the products.
+This catalog was created for the gadget store not just to showcase all the items that the company sells but also encourage visitors to buy gadgets. The interactive and engaging design makes website visitors stay longer, click on the item they like, and become customers. The ability to choose a theme, swipe the carousel of items, sort products, and search for a particular product improves user experience. Besides, even after closing the browser and revisiting the website users will still see liked items and those added to the cart.
 
-### Demo
+## Demo
 
  [DEMO LINK](https://nataliatopornitska.github.io/gadgets-catalog/)
 
-### Design
+## Design
 
 - [Original](https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original)
 
