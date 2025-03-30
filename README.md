@@ -8,7 +8,7 @@ This catalog was created for the gadget store not just to showcase all the items
 
 ## Design
 
-- [Original](https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original)
+ [Original](https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original)
 
 
 ## Technologies Used
